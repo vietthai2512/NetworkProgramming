@@ -1,1 +1,4 @@
-# **Ứng dụng phân giải tên miền dùng UDP Socket**
+# **Address Resolver Application using UDP Socket**
+## Server:
+
+## Client:
