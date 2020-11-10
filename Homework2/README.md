@@ -1,1 +1,1 @@
-#**Ứng dụng phân giải tên miền dùng UDP Socket**
+#Ứng dụng phân giải tên miền dùng UDP Socket
